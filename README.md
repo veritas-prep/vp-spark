@@ -3,6 +3,9 @@ Learn everything VP
 
 We will use this to list every resource, blog, book, etc that is useful to learning all the technologies we use. 
 
+
+
+
 Management: 
 <ul>
 <li><a href="http://www.smartlikehow.com/">Smart Like How</a></li>
